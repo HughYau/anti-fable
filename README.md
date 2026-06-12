@@ -1,5 +1,5 @@
 # Anti-Fable Skill
-[English](README.md)
+[English](README_en.md)
 
 几天前，Anthropic 又一次发布了地表最强模型 Claude Fable 5。在沉迷于它远超其他模型的设计审美与代码能力之余，我尝试用他辅助我进行研究。然而，几次尝试无一例外地触发了安全提示：
 
