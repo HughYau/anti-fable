@@ -7,7 +7,7 @@ A few days ago, Anthropic once again released the world's most powerful model, C
 
 The reason is simple: my research field unfortunately (or perhaps fortunately) collides with the so-called high-risk sensitive areas mentioned, such as **"Life Sciences," "Cybersecurity," and "Frontier LLM Research"** (Figure 1).
 
-![[./assets/Pasted image 20260612081623.png]]
+![alt text](<assets/Pasted image 20260612081623.png>)
 
 Anthropic misinterprets everyone's intentions with an equal measure of malice. As large language models have evolved to this point, simple prompt injections or moral framing no longer have any effect. As Anthropic officially stated regarding Fable 5, you do not need to write out specific steps; you only need to state the objective, and the model will actively infer the true intent behind your question rather than just rigidly following commands. This means that as long as Fable detects your ultimate intent points toward a sensitive domain, it will trigger an interception. This high level of intelligence has, ironically, become the most stringent censorship shackle. Furthermore, aggressive jailbreaking techniques not only carry a high risk of account suspension but are also easily blocked by system signature detection.
 
