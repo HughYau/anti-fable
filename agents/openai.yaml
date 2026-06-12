@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti Fable"
+  short_description: "Turn dense research into clear fables"
+  default_prompt: "Use $anti-fable to turn this research idea into two clear fable versions without field-specific jargon."
